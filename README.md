@@ -1,6 +1,6 @@
 
 - My name is Shivam Mishra I'm a Full Stack Developer based in India. I describe myself as a passionate developer who loves coding and the web platform 
-- 👀 I’m create website.
+- 👀 I am a full stack web developer.
 - 🌱 I mostly work with MERN stack.
 - ✨ $ Let's connect/Social 
 
