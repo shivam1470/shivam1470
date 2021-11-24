@@ -3,12 +3,16 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning MERN stack.
 - ✨ $ Let's connect/Social 
-- 
--> https://twitter.com/MishraSh1vam
 
--> https://www.linkedin.com/in/shivam-mishra-a16149208
+My Portfolio -> https://shivam1470.github.io/ShivamMishra/index.html
 
--> https://www.instagram.com/devllucifer/ (Personal)
+
+
+My Twitter -> https://twitter.com/MishraSh1vam
+
+My LinkedIn-> https://www.linkedin.com/in/shivam-mishra-a16149208
+
+My Instagram -> https://www.instagram.com/devllucifer/ (Personal)
 
 <!---
 shivam1470/shivam1470 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
