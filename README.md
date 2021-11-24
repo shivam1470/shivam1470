@@ -1,11 +1,10 @@
 
-- My name is Shivam Mishra I'm a Front End Engineer based in India. I describe myself as a passionate developer who loves coding and the web platform 
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning MERN stack.
+- My name is Shivam Mishra I'm a Full Stack Developer based in India. I describe myself as a passionate developer who loves coding and the web platform 
+- 👀 I’m create website.
+- 🌱 I mostly work with MERN stack.
 - ✨ $ Let's connect/Social 
 
 My Portfolio -> https://shivam1470.github.io/ShivamMishra/index.html
-
 
 
 My Twitter -> https://twitter.com/MishraSh1vam
