@@ -6,16 +6,18 @@ As a coding sorcerer, I've mastered the arcane arts of React, JavaScript, and Ty
 
 ✨ In my coding arsenal, I harness the power of magical libraries and frameworks like:
 
-React ⚛️
-JavaScript 💻
-TypeScript 📜
-Ant Design 🐜
-Material UI 🎨
-Formik 📝
-Yup ✅
-Redux Toolkit 🗂️
-Moment ⏰
-Git 🌳
+-React ⚛️                                 
+-JavaScript 💻                             
+-TypeScript 📜                            
+-Ant Design 🐜                            
+-Material UI 🎨                          
+-Formik 📝                               
+-Yup ✅                               
+-Redux Toolkit 🗂️                     
+-Moment ⏰                           
+-Git 🌳                          
+
+
 With these tools at my fingertips, I can conjure stunning UIs, handle complex form validations, manage state effortlessly, manipulate time and dates flawlessly, and collaborate seamlessly with fellow developers.
 
 🔮 If you're curious to witness the wonders I've conjured, feel free to explore my portfolio, a testament to my coding journey: Portfolio
